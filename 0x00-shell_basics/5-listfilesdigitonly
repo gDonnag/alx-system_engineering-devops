@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-ls -a -l -n 
-=======
-ls -lan
->>>>>>> 5d09c2424941f4ad147e02831766055242a8e92a
+ls -lna
